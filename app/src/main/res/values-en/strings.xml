@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Marks</string>
+    <string name="description">description</string>
+
+    <!-- App package -->
+    <string name="app_open">Open With</string>
+
+    <!-- Global Variable -->
+    <string name="lolmc">Light of Love Mission Church</string>
+    <string name="title">The Marks</string>
+
+    <!-- FCM Push Alarm -->
+    <string name="fcm_scueess">✔</string>
+    <string name="fcm_error">Something went wrong\nPlease try again</string>
+
+    <!-- Permission -->
+    <string name="permission_grant">Permission granted</string>
+    <string name="permission_request">Please allow permission</string>
+    <string name="permission_setting">You can allow permission on\n[Setting] > [Permissions]</string>
+
+    <!-- Direction Activity -->
+    <string name="direction_shortcut">Open Google Map</string>
+    <string name="direction_location_title">LOCATION</string>
+    <string name="direction_location">2801 E Colorado Bl.\nPasadena, CA 91107</string>
+    <string name="direction_contact_title">CONTACT</string>
+    <string name="direction_contact">(626) 744 – 9191\noffice@lolmc.org</string>
+
+    <!-- Main Activity -->
+    <string name="main_title">Light of Love Mission Church\nYoung Adults</string>
+    <string name="main_content">We invite you to praise and\nworship, and welcome you\nto a place of sharing and serving</string>
+    <string name="main_signin">Sign in</string>
+    <string name="main_signin_fail">Login failed\nPlease try again</string>
+    <string name="main_signin_google">Sign into Google account first</string>
+    <string name="main_direction">Location</string>
+
+    <!-- SubMain Activity -->
+    <string name="submain_worship">Worship</string>
+    <string name="submain_bulletin">Bulletin</string>
+    <string name="submain_register">Application</string>
+    <string name="submain_offering">Offering</string>
+    <string name="submain_goods">Goods</string>
+    <string name="submain_notice">Notice</string>
+    <string name="submain_bulletin_fail">Something went wrong\nPlease try again later</string>
+    <string name="submain_bulletin_empy">Bulletin unavailable now\nPlease try again later</string>
+    <string name="submain_googleform_fail">Something went wrong\nPlease try again later</string>
+    <string name="submain_googleform_empy">Application unavailable now\nPlease try again later</string>
+
+    <!-- Worship Activity -->
+    <string name="worship1">Worship and Meeting</string>
+    <string name="worship2">Worship</string>
+    <string name="worship3">Sunday 2:00 PM</string>
+    <string name="worship4">Friday Night Worship</string>
+    <string name="worship5">7:45 PM\nat Main Sanctuary</string>
+    <string name="meeting1">Cell meeting</string>
+    <string name="meeting2">After worship</string>
+    <string name="location1">Address &amp;</string>
+    <string name="location2">2801 E. Colorado Blvd.Pasadena, CA 91107</string>
+    <string name="contact">Tel. (626) 744–9191</string>
+    <string name="facility">Facility</string>
+    <string name="mapExport">Direction</string>
+
+    <!-- Offering Activity -->
+    <string name="offering">Online giving - Venmo</string>
+    <string name="offering_qr">QR code</string>
+    <string name="offering_content">Please write down "Name" and "offering"\non Venmo transaction</string>
+    <string name="offering_id">Venmo ID</string>
+    <string name="offering_link">Install Venmo</string>
+    <string name="offering_noqr">There is currently no QR code available </string>
+    <string name="offering_expand">Expand</string>
+    <string name="offering_collapse">Collapse</string>
+
+    <!-- Facility Activity -->
+    <string name="facilityMap">Church Map</string>
+    <string name="facilityMapView">Enlarge</string>
+    <string name="facilityMapDownload">Download</string>
+    <string name="facilityDownloadSuccess">Downloaded</string>
+
+    <!-- Login Activity -->
+    <string name="login">Login</string>
+    <string name="login_password">Password</string>
+    <string name="login_password_empty">Enter password</string>
+    <string name="login_password_error">Invalid password\nPlease try again</string>
+
+    <!-- Edit Activity -->
+    <string name="edit_url"> Bulletin / Application</string>
+    <string name="edit_offering">Offering</string>
+    <string name="edit_goods">Goods</string>
+    <string name="edit_notice">Notice</string>
+    <string name="edit_alarm">Main Notice</string>
+
+    <!-- Noticeedit Activity -->
+    <string name="deleted">File deleted</string>
+
+    <!-- Urlupload Activity -->
+    <string name="urlupload_bulletin">Bulletin URL</string>
+    <string name="urlupload_googleform">Application URL</string>
+    <string name="upload">Upload</string>
+    <string name="urlupload_empty">Enter Link</string>
+    <string name="uploaded">Uploaded</string>
+
+    <!-- Goodsupload Activity -->
+    <string name="goodsupload_name">Enter product name</string>
+    <string name="goodsupload_price">Enter price</string>
+    <string name="goodsupload_image">Select image</string>
+
+    <!-- Noticeupload Activity -->
+    <string name="noticeupload_name">Enter title</string>
+    <string name="noticeupload_content">Enter content</string>
+
+    <!-- Goods View -->
+    <string name="goods_title">Goods</string>
+    <string name="goods_name">Name</string>
+    <string name="goods_price">Price</string>
+    <string name="goods_quantity">Quantity</string>
+    <string name="goods_quantity2">Quantity</string>
+
+    <!-- Notice View -->
+    <string name="notice_title">공지사항</string>
+    <string name="notice_content">내용</string>
+    <string name="notice_date">날짜</string>
+
+    <!-- Bottom menu -->
+    <string name="bot_youtube">Youtube</string>
+    <string name="bot_instagram">Instagram</string>
+
+    <!-- Navigation -->
+    <string name="menu_access">Access Restricted</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_upload">Upload</string>
+    <string name="menu_logout">Logout</string>
+</resources>
